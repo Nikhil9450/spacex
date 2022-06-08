@@ -1,0 +1,26 @@
+.container{
+    display: block;
+    height: 450px;
+    width: 250px;
+    background-color: #252525;
+    margin: 5px;
+    padding: 20px;
+    border-radius: 10px;
+    color: white;
+    box-shadow: 2px 2px 6px 0px rgba(0,0,0,0.3);
+    
+}
+h3{
+    color: #57BEE6 ;
+}
+img{
+    height: 200px;
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.data{
+    font-weight: normal;
+    font-size: 15px;
+}

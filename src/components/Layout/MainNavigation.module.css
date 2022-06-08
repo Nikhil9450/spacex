@@ -1,0 +1,57 @@
+body{
+  background-color: #131313;
+}
+.header {
+  width: 100%;
+  height: 5rem;
+  background-color:none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 10%;
+}
+
+.logo {
+  font-family: 'Lato', sans-serif;
+  font-size: 2rem;
+  color: #959292 ;
+  margin: 0;
+}
+
+.header ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: baseline;
+}
+
+.header li {
+  margin: 0 1rem;
+}
+
+.header a {
+  text-decoration: none;
+  color: #959292 ;
+  font-weight: bold;
+}
+
+.header button {
+  font: inherit;
+  background-color: transparent;
+  border: 1px solid white;
+  color: white;
+  font-weight: bold;
+  padding: 0.5rem 1.5rem;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.header a:hover {
+  color: #ffffff;
+}
+
+.header button:hover {
+  background-color: #fefefe;
+  color: #1f1f1f;
+}

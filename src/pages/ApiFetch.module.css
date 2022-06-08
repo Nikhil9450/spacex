@@ -1,0 +1,10 @@
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.loading{
+    color: rgb(183, 178, 178);
+    margin-top: 300px;
+}

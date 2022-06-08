@@ -1,0 +1,16 @@
+.starting {
+  margin: 3rem auto;
+  text-align: center;
+}
+
+.starting h1 {
+  font-size: 5rem;
+  color: antiquewhite;
+}
+.starting p{
+  color: antiquewhite;
+  font-size: 20px;
+}
+.firstp{
+ margin-top: 200px;
+}
